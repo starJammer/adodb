@@ -5,11 +5,11 @@
 	"authors" : [
 		{
 			"name": "John Lim",
-			"homepage": "http://adodb.sourceforge.net/#docs",
+			"homepage": "http://adodb.sourceforge.net/#docs"
 		}
 	],
 
-	"support" : { "forum" : "http ://phplens.com/lens/lensforum/topics.php?id=4" }
+	"support" : { "forum" : "http ://phplens.com/lens/lensforum/topics.php?id=4" },
 
 	"require" : {
 		"php" : ">=5.3.2"
